@@ -5,5 +5,3 @@
 3. Contact Us Page: This would allow visitors to reach out to you directly. You could include a form for them to fill out, or list your email addresses.
 
 4. FAQs Page: If there are common questions about your project, you could answer them here.
-
-5. Forum or Community Section: This could be a place for your users to interact with each other, ask questions, and share their experiences.

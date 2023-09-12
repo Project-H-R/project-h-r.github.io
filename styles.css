@@ -1,0 +1,66 @@
+/* File: styles.css */
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    font-size: 4rem;
+    font-weight: normal;
+    
+}
+
+h2 {
+    font-size: 2.25rem;
+    font-weight: normal;
+}
+
+p {
+    font-size: 1.5rem;
+}
+
+html {
+    text-align: center;
+}
+
+a {
+    border: none;
+    color: white;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    font-size: 1rem;
+    transition-duration: 400ms;
+    cursor: pointer;
+    text-decoration: none;
+    border-radius: 0;
+    background-color: #6b7280;
+    padding-left: 0.75rem;
+    padding-right: 0.75rem;
+    padding-top: 0.75rem;
+    padding-bottom: 0.75rem;
+    display: flex;
+}
+
+a:hover {
+    background-color: #d1d5db;
+    color: black;
+}
+
+nav {
+    background-color: #2d3748;
+    width: max-content;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    transform: translateY(0.75rem);
+}
+
+div {
+    width: 66.666667%;
+    margin-left: auto;
+    margin-right: auto;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%) translateY(20%);
+}
